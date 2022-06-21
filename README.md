@@ -1,10 +1,25 @@
-# Showcases Delete Tests Error
+# ----Showcases Delete Tests Error----
 1. Ran in eyes-selenium 2.56. Tests with GetALlTestResults were deleted, but not those from the eyes.close. 
 2. Ran in latest (eyes-selenium 3.7) and neither expected delete test results worked. 
 
 
 
 ** Below is the tutorial Readme **
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Pre-requisites:
 
 1. Visual Studio installed on your machine. Workload ".NET desktop development" should be installed in Visual Studio too (if no - add it with Visual Studio Installer)
