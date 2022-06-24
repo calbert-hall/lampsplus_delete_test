@@ -1,5 +1,5 @@
 # ----Showcases Delete Tests Error----
-1. Ran in eyes-selenium 2.56. Tests with GetALlTestResults were deleted, but not those from the eyes.close. 
+1. Ran in eyes-selenium 2.56. Tests with GetAllTestResults were deleted, but not those from the eyes.close. 
 2. Ran in latest (eyes-selenium 3.7) and neither expected delete test results worked. 
 
 
